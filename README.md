@@ -25,4 +25,4 @@ Projet réalisé dans le cadre de mon stage en développement informatique, avec
 ## Captures d'écran
 
 ### 🔐 Authentification (SMS)
-![Login](screenshots/confirmation demande.jpeg)
+(screenshots/confirmation demande.jpeg)
