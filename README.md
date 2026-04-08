@@ -3,7 +3,7 @@ Fast Delivery est une application mobile développée avec Flutter permettant au
 L’utilisateur peut créer une demande de livraison en indiquant sa position actuelle ainsi que la destination du colis. Le système calcule automatiquement le coût et notifie les livreurs disponibles à proximité.
 
 # Contexte
-Projet réalisé dans le cadre de ma formation en développement informatique, avec pour objectif de concevoir un système complet de gestion de livraison.
+Projet réalisé dans le cadre de mon stage en développement informatique, avec pour objectif de concevoir un système complet de gestion de livraison.
 
 # Fonctionnalités
 - Authentification par numéro de téléphone (SMS)
@@ -22,3 +22,7 @@ Projet réalisé dans le cadre de ma formation en développement informatique, a
 -  Firebase Cloud Messaging (Notifications)
 -  Postman (Tests API)
 
+## Captures d'écran
+
+### 🔐 Authentification (SMS)
+![Login](screenshots/confirmation demande.jpeg)
