@@ -26,7 +26,7 @@ Projet réalisé dans le cadre de mon stage en développement informatique, avec
 
 <p align="center">
   <b>1- Page d'accueil</b><br>
-  <img src="screenshots/page_d'accueil.jpeg" width="300">
+  <img src="screenshots/page_d'acueil.jpeg" width="300">
 </p>
 
 <p align="center">
