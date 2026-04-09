@@ -60,15 +60,15 @@ Projet réalisé dans le cadre de mon stage en développement informatique, avec
 </p>
 
 ## Installation
-1- Cloner le repository
+1- Cloner le repository :
  git clone https://github.com/Mohamedissa282/Fast-Delivery.git
- **cd Fast-Delivery**
+- **cd Fast-Delivery**
  
 2- Installer les dépendances
- **flutter pub get**
+- **flutter pub get**
  
 3- Lancer l’application
- **flutter run**
+- **flutter run**
  
 # Explications
 - **git clone** → récupère le projet depuis GitHub  
