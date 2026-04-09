@@ -26,7 +26,7 @@ Projet réalisé dans le cadre de mon stage en développement informatique, avec
 
 <p align="center">
   <b>1- Page d'accueil</b><br>
-  <img src="screenshots/page_d'acueil.jpeg" width="300">
+  <img src="screenshots/page_d'aceuil.jpeg" width="300">
 </p>
 
 <p align="center">
@@ -58,3 +58,19 @@ Projet réalisé dans le cadre de mon stage en développement informatique, avec
   <b>7️- Montant à payer (PDF)</b><br>
   <img src="screenshots/montant_payer.jpeg" width="300">
 </p>
+
+## Installation
+1- Cloner le repository
+ git clone https://github.com/Mohamedissa282/Fast-Delivery.git
+ cd Fast-Delivery
+ 
+2- Installer les dépendances
+ flutter pub get
+ 
+3- Lancer l’application
+ flutter run
+# Explications
+- **git clone** → récupère le projet depuis GitHub  
+- **flutter pub get** → installe toutes les dépendances nécessaires pour Flutter  
+- **flutter run** → lance l’application sur ton émulateur ou téléphone  
+ 
