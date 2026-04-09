@@ -24,5 +24,37 @@ Projet réalisé dans le cadre de mon stage en développement informatique, avec
 
 ## Captures d'écran
 
-### 🔐 Authentification (SMS)
-<img src="screenshots/confirmation_demande.jpeg" width="300">
+<p align="center">
+  <b>1- Page d'accueil</b><br>
+  <img src="screenshots/page_d'accueil.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>2- Authentification (numéro de téléphone)</b><br>
+  <img src="screenshots/demande_numero.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>3️- Informations personnelles</b><br>
+  <img src="screenshots/informations.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>4️- Choisir la destination du colis</b><br>
+  <img src="screenshots/choisir_destination.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>5️- Confirmation de la demande</b><br>
+  <img src="screenshots/confirmation_demande.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>6️- Demande envoyée</b><br>
+  <img src="screenshots/demande_envoyé.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>7️- Montant à payer (PDF)</b><br>
+  <img src="screenshots/montant_payer.jpeg" width="300">
+</p>
